@@ -9,3 +9,4 @@ My name is Gerrick Sands, a CyberSecurity engineer with a focus in automation. T
     Managing security updates and patches across a large fleet of Linux servers can be challenging. Without automation, it increases the risk of human error, delayed patches, and potential security vulnerabilities due to outdated software.
 
     - **Approach:**
+    Use Ansible for automation, public.cyber.mil for DISA stigs and working documentation to use for compliance guidance, and Ubuntu as the operating system. Openscap will be my compliance scanner and how I receive reports.
