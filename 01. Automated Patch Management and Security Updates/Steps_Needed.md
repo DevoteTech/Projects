@@ -13,7 +13,7 @@ Use Ansible for automation, public.cyber.mil for DISA stigs and working document
 - Build VM
 
 ## Tasks
-- [ ] Build VM
+- [ ] Build VM - Ubuntu 22.04 LTS
 - [ ] Build SSH Key
 - [ ] Install OpenSCAP
 - [ ] Install Ansible
