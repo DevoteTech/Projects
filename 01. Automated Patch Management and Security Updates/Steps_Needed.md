@@ -14,6 +14,7 @@ Use Ansible for automation, public.cyber.mil for DISA stigs and working document
 
 ## Tasks
 - [ ] Build VM
+- [ ] Build SSH Key
 - [ ] Install OpenSCAP
 - [ ] Install Ansible
 - [ ] Test Manual XCCDF w/ OpenSCAP
